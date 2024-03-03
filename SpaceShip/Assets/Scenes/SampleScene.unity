@@ -128,6 +128,68 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4992838361154946, guid: 45b62242ff99b0a48a47f713cd6d1687, type: 3}
   m_PrefabInstance: {fileID: 355647515}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &115733418
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 2032655624}
+    m_Modifications:
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1443.3364
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 742.21735
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -1200.0564
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000021855694
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.00000008742278
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 1.9106855e-15
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5491764769391269175, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_Name
+      value: Asteroid Lava Red (4)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+--- !u!4 &115733419 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+  m_PrefabInstance: {fileID: 115733418}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &163578407
 GameObject:
   m_ObjectHideFlags: 0
@@ -262,6 +324,68 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 163578407}
   m_CullTransparentMesh: 1
+--- !u!1001 &169300335
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 2032655624}
+    m_Modifications:
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -3207.5618
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 716.21735
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -1113.0621
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000021855694
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.00000008742278
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 1.9106855e-15
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5491764769391269175, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_Name
+      value: Asteroid Lava Red (8)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+--- !u!4 &169300336 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+  m_PrefabInstance: {fileID: 169300335}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &198569391 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4992838361154946, guid: 45b62242ff99b0a48a47f713cd6d1687, type: 3}
@@ -1292,6 +1416,68 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 36b3cb81c6917eb48b3750252dcb3e2c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!1001 &827874444
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 2032655624}
+    m_Modifications:
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2538.8696
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 539.21735
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -986.06213
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000021855694
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.00000008742278
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 1.9106855e-15
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5491764769391269175, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_Name
+      value: Asteroid Lava Red (7)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+--- !u!4 &827874445 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+  m_PrefabInstance: {fileID: 827874444}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &840646402
 GameObject:
   m_ObjectHideFlags: 0
@@ -1482,6 +1668,68 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 45b62242ff99b0a48a47f713cd6d1687, type: 3}
+--- !u!1001 &910770213
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 2032655624}
+    m_Modifications:
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2861.556
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 598.21735
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -483.8841
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000021855694
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.00000008742278
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 1.9106855e-15
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5491764769391269175, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_Name
+      value: Asteroid Lava Red (5)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+--- !u!4 &910770214 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+  m_PrefabInstance: {fileID: 910770213}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &915679747
 GameObject:
   m_ObjectHideFlags: 0
@@ -1550,6 +1798,130 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &984488532
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 2032655624}
+    m_Modifications:
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1912.367
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 644.21735
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -1428.3916
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000021855694
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.00000008742278
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 1.9106855e-15
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5491764769391269175, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_Name
+      value: Asteroid Lava Red (6)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+--- !u!4 &984488533 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+  m_PrefabInstance: {fileID: 984488532}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1058843549
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 2032655624}
+    m_Modifications:
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1237.8429
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 696.21735
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -489.06213
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000021855694
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.00000008742278
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 1.9106855e-15
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5491764769391269175, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_Name
+      value: Asteroid Lava Red (2)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+--- !u!4 &1058843550 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+  m_PrefabInstance: {fileID: 1058843549}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1083301745
 GameObject:
   m_ObjectHideFlags: 0
@@ -1841,6 +2213,68 @@ Transform:
   - {fileID: 1783651433}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1126730803
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 2032655624}
+    m_Modifications:
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2593.3438
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 611.51733
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 128.31592
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000021855694
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.00000008742278
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 1.9106855e-15
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5491764769391269175, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_Name
+      value: Asteroid Lava Red (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+--- !u!4 &1126730804 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+  m_PrefabInstance: {fileID: 1126730803}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1134342262
 GameObject:
   m_ObjectHideFlags: 0
@@ -2130,6 +2564,68 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
   m_PrefabInstance: {fileID: 1282186439}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1440429570
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 2032655624}
+    m_Modifications:
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1450.1072
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 557.21735
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -697.6931
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000021855694
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.00000008742278
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 1.9106855e-15
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5491764769391269175, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_Name
+      value: Asteroid Lava Red (9)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+--- !u!4 &1440429571 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+  m_PrefabInstance: {fileID: 1440429570}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1529906153
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2407,6 +2903,68 @@ Terrain:
   m_EnableHeightmapRayTracing: 1
   m_EnableTreesAndDetailsRayTracing: 0
   m_TreeMotionVectorModeOverride: 3
+--- !u!1001 &1786339167
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 2032655624}
+    m_Modifications:
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1444.556
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 589.21735
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -218.58295
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000021855694
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.00000008742278
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 1.9106855e-15
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5491764769391269175, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_Name
+      value: Asteroid Lava Red
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+--- !u!4 &1786339168 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+  m_PrefabInstance: {fileID: 1786339167}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1944465065
 GameObject:
   m_ObjectHideFlags: 0
@@ -2597,6 +3155,68 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+--- !u!1001 &1974105030
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 2032655624}
+    m_Modifications:
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2495.1523
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 591.21735
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -448.97205
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000021855694
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.00000008742278
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 1.9106855e-15
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5491764769391269175, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+      propertyPath: m_Name
+      value: Asteroid Lava Red (3)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+--- !u!4 &1974105031 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5485788322207725235, guid: a84b61ee72d21274485b9cd3581170bd, type: 3}
+  m_PrefabInstance: {fileID: 1974105030}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &1978668884 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4992838361154946, guid: 45b62242ff99b0a48a47f713cd6d1687, type: 3}
@@ -2642,6 +3262,16 @@ Transform:
   - {fileID: 634333448}
   - {fileID: 2089098810}
   - {fileID: 2065129773}
+  - {fileID: 1786339168}
+  - {fileID: 1126730804}
+  - {fileID: 1058843550}
+  - {fileID: 1974105031}
+  - {fileID: 115733419}
+  - {fileID: 910770214}
+  - {fileID: 984488533}
+  - {fileID: 827874445}
+  - {fileID: 169300336}
+  - {fileID: 1440429571}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &2065129773 stripped
@@ -2911,6 +3541,14 @@ PrefabInstance:
       propertyPath: bulletPrefab
       value: 
       objectReference: {fileID: 5872717985996004184, guid: e54492aabfc72b04b9738a503b5e57d3, type: 3}
+    - target: {fileID: 5654464458454334021, guid: 7e1433b8b48fd694f9209cafe07dec07, type: 3}
+      propertyPath: strafeSpeed
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 5654464458454334021, guid: 7e1433b8b48fd694f9209cafe07dec07, type: 3}
+      propertyPath: forwardSpeed
+      value: 100
+      objectReference: {fileID: 0}
     - target: {fileID: 6135988371823167333, guid: 7e1433b8b48fd694f9209cafe07dec07, type: 3}
       propertyPath: m_RootOrder
       value: 0
