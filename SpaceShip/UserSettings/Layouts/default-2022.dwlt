@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 997
   m_ShowMode: 4
-  m_Title: Hierarchy
+  m_Title: Game
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -68,8 +68,8 @@ MonoBehaviour:
     y: 0
     width: 475
     height: 947
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -94,8 +94,8 @@ MonoBehaviour:
     y: 0
     width: 322
     height: 514
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 201, y: 221}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -321,7 +321,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Prefubs
+    - Assets/Scripts
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -329,16 +329,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/Prefubs
+  - Assets/Scripts
   m_LastFoldersGridSize: 16
   m_LastProjectPath: C:\Games\Unity48_Team2\SpaceShip
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: b25e0000
-    m_LastClickedID: 24242
-    m_ExpandedIDs: 00000000965e000000ca9a3b
+    m_SelectedIDs: e85e0000
+    m_LastClickedID: 24296
+    m_ExpandedIDs: 00000000be5e0000c05e000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -366,7 +366,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000965e0000
+    m_ExpandedIDs: 00000000be5e0000c05e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -394,7 +394,7 @@ MonoBehaviour:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 1
-    m_ExpandedInstanceIDs: c623000000000000be5a00008e5a0000
+    m_ExpandedInstanceIDs: c623000000000000be5a00008e5a00009e810000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -506,9 +506,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 0afaffff
-      m_LastClickedID: -1526
-      m_ExpandedIDs: 2cfbffff
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: 04f8feff22f9ffff4afaffff2cfbffff545b0000925b00006e86000024870000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -901,9 +901,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 1119.8562, y: -1147.1204, z: 1228.1387}
+    m_Target: {x: 960, y: 540.0001, z: 0.00024414062}
     speed: 2
-    m_Value: {x: 1119.8562, y: -1147.1204, z: 1228.1387}
+    m_Value: {x: 960, y: 540.0001, z: 0.00024414062}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -949,13 +949,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.3039789, y: 0.24220559, z: -0.080206074, w: 0.9178638}
+    m_Target: {x: 0.08826289, y: 0.8266467, z: -0.13536274, w: 0.5389972}
     speed: 2
-    m_Value: {x: 0.30535936, y: 0.2420882, z: -0.08057033, w: 0.9174189}
+    m_Value: {x: 0.088262886, y: 0.8266466, z: -0.13536273, w: 0.5389972}
   m_Size:
-    m_Target: 1445.3448
+    m_Target: 1101.4536
     speed: 2
-    m_Value: 1445.3448
+    m_Value: 1101.4536
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -973,7 +973,7 @@ MonoBehaviour:
     m_FarClip: 10000
     m_DynamicClip: 1
     m_OcclusionCulling: 0
-  m_LastSceneViewRotation: {x: 0.001305741, y: 0.99661475, z: 0.08059224, w: -0.01614585}
+  m_LastSceneViewRotation: {x: 0.08826289, y: 0.8266467, z: -0.13536274, w: 0.5389972}
   m_LastSceneViewOrtho: 0
   m_ReplacementShader: {fileID: 0}
   m_ReplacementString: 

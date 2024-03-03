@@ -11,10 +11,10 @@ public class QuestWindow : MonoBehaviour
         {
             isOn = !isOn;
             Pause.SetActive(isOn);
-            Time.timeScale = 0;
+            
             if (isOn)
             {
-                
+                Time.timeScale = 0;
                 Cursor.lockState = CursorLockMode.None;
             }
             else
