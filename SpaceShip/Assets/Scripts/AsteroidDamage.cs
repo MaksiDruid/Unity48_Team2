@@ -2,11 +2,11 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Bullet : MonoBehaviour
+public class AsteroidDamage : MonoBehaviour
 {
     [SerializeField] float power;
     [SerializeField] int damage;
-    
+
     Rigidbody rigidbody;
 
     void Start()
@@ -17,13 +17,13 @@ public class Bullet : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        if (other.CompareTag("Enemy"))
+        if (other.CompareTag("Player"))
         {
             Health health = other.GetComponent<Health>();
             if (health != null)
             {
                 health.GetDamage(damage);
-                Destroy(gameObject, 0.5f);
+                
             }
         }
     }
