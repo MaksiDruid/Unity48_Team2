@@ -7,7 +7,7 @@ public class QuestWindow : MonoBehaviour
 
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Escape))
+        if (Input.GetKeyDown(KeyCode.Tab))
         {
             isOn = !isOn;
             Pause.SetActive(isOn);
@@ -16,6 +16,7 @@ public class QuestWindow : MonoBehaviour
             {
                 Time.timeScale = 0;
                 Cursor.lockState = CursorLockMode.None;
+                Cursor.visible = true;
             }
             else
             {

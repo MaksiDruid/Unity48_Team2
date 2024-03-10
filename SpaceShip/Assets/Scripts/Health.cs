@@ -22,7 +22,8 @@ public class Health : MonoBehaviour
             Destroy(gameObject);
             if (gameObject.CompareTag("Player"))
             {
-                Application.Quit();
+                SceneManager.LoadScene(0);
+                Cursor.visible = true;
             }
         }
     }

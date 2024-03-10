@@ -9,6 +9,7 @@ public class PauseButtons : MonoBehaviour
     {
         SceneManager.LoadScene(0);
         Time.timeScale = 1;
+        Cursor.visible = true;
     }
 
     public void Exit()
